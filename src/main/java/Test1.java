@@ -4,7 +4,7 @@ public class Test1 {
 	
 	public static void main(String a[]) {
 		
-		int a1 = 30;
+		int a1 = 100;
 		
 		
 	}
